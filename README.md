@@ -1,5 +1,7 @@
 # vue-dashboard
 
+Template from: https://themeselection.com/demo/materio-vuetify-vuejs-laravel-admin-template-free/demo/dashboard
+
 ## Project setup
 ```
 npm install
@@ -21,7 +23,7 @@ npm run lint
 ```
 
 ### Customize configuration
-Template from: https://themeselection.com/demo/materio-vuetify-vuejs-laravel-admin-template-free/demo/dashboard
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# Dashboard-ui-learn-vue" 
 ![image](https://user-images.githubusercontent.com/74899582/150926549-62698803-0699-48c1-92aa-97b0c9e0ddc8.png)
